@@ -1,2 +1,2 @@
-# EduGB-max-app
-Protótipo de app mobile
+# EduGB-max.github.io(2)
+ Protótipo de app mobile
